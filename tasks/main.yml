@@ -1,0 +1,6 @@
+---
+# tasks file for ansible-ci-test-s.h
+
+- name: Nothing but debug messages.
+  debug:
+    msg: 'Hello World!!'
